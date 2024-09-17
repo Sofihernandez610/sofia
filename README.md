@@ -1,6 +1,8 @@
 Prueba Tecnica Sofia Hernandez
 
 Instrucciones de Uso
+1-Clonar Repositorio
+2-Instalar node_modules con el comando npm install
 
 Parte A
 1- Abra una terminal nueva en el proyecto
