@@ -1,0 +1,200 @@
+    p {
+    text-align: left;
+    font-size: 1.5rem;
+    margin: 30px ;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+  }
+
+  #module-container {
+    text-align: left;
+    background-color: rgb(178,178,178);
+    margin-bottom: 20px;
+    border-radius: 10px;
+
+      
+  }
+  
+  #moduledisplay {
+    display: inline-block;
+    margin-bottom: 20px;
+
+  }
+
+
+  
+  .module-button {
+    padding: 10px 20px;
+    margin: 15px;
+    margin-top: 30px;
+    background-color: rgb(137,93,143);
+    color: white;
+    border: none;
+    border-radius: 10px;
+    text-align: center;
+    width: 200px;
+    height: 40px;
+    font-size: 1.2rem;
+
+  }
+  
+  .module-button:hover {
+    background-color:rgb(73,66,107);
+  }
+  
+  #provider-container {
+    text-align: left;
+    background-color: rgb(178,178,178);
+    border-radius: 10px;
+
+  }
+
+  #conteiner{
+    border: 1px solid black;
+    border-radius: 10px;
+    margin: 10px;         
+    height: 800px;   
+  }
+
+  
+  #conteiner2{
+    border: 1px solid black;
+    text-align: center;
+    border-radius: 10px;
+    padding: 0px;
+    width: 1360px;          
+    height: 640px;     
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 15px;
+    
+    
+    
+  }
+  
+  
+  .provider-button {
+    padding: 10px 20px;
+    margin: 30px;
+    background-color: rgb(137,93,143);
+    color: white;
+    border: none;
+    border-radius: 10px;
+    width: 200px;
+    height: 40px;
+    font-size: 1.2rem;
+  }
+  
+  .provider-button:hover {
+    background-color: rgb(73,66,107);
+    
+  }
+  
+
+  .user-list {
+    margin: 10px auto;
+    width: 300px;
+    text-align: center;
+    font-size: 1.2rem;
+  }
+  
+  
+  #user-count {
+    margin-bottom: 10px;
+  }
+  
+  #user-list {
+    list-style-type: none;
+    padding: 0px;
+  }
+  
+  
+  #user-list li {
+    background-color: rgb(137,93,143);
+    padding: 8px;
+    margin: 5px 0;
+    border-radius: 10px;
+    border: 1px solid #ddd;
+    color: white; 
+    width: 200px;
+    height: 30px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+  }
+  #user-list li:hover{
+    background-color: rgb(73,66,107);
+  }
+  
+
+  button img {
+    width: 20px;   
+    height: 20px;  
+    vertical-align: middle; 
+    margin-left: 5px; 
+  }
+
+  .delete-button img {
+    width: 24px;
+    height: 32px;
+  }
+  
+  .advice-button img {
+    width: 30px;
+    height: 30px;
+  }
+  
+  .create-button img {
+    width: 28px;
+    height: 32px;
+  }
+  
+  .submit-button img {
+    width: 24px;
+    height: 30px;
+  }
+  .action-buttons {
+    text-align: right;
+    position: fixed;           
+    bottom: 80px;               
+    right: 70px;               
+            
+  }
+  
+  .action-buttons button {
+    padding: 10px 20px;
+    margin: 10px;
+    border: none;
+    border-radius: 10px;
+    gap: 10px; 
+    font-size: 1.0rem;
+    
+  }
+  
+  
+ 
+  .delete-button {
+    background-color: rgb(236,70,71);
+    color: white;
+  }
+  
+
+  .advice-button {
+    background-color: rgb(233,203,122);
+    color: white;
+  }
+  
+  .create-button {
+    background-color: rgb(255,154,153);
+    color: white;
+  }
+  
+  .submit-button {
+    background-color: rgb(119,206,189);
+    color: white;
+  }
+  
+
+  
+  .selected {
+    background-color: rgb(73,66,107); 
+    color: white;
+  }
+  
